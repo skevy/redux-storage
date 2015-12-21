@@ -1,6 +1,6 @@
 {
   "name": "redux-storage",
-  "version": "1.4.1",
+  "version": "1.4.1-ccinternal",
   "description": "Persistence layer for redux with flexible backends",
   "main": "build/index.js",
   "scripts": {
@@ -45,7 +45,7 @@
     "lodash.isobject": "^3.0.2",
     "lodash.merge": "^3.3.2",
     "lodash.set": "^3.7.4",
-    "redux-actions": "^0.9.0"
+    "redux-actions": "^0.9.0 || 0.9.0-alpha"
   },
   "peerDependencies": {
     "redux": "^3.0.0 || ^2.0.0 || ^1.0.0 || 1.0.0-alpha || 1.0.0-rc"
